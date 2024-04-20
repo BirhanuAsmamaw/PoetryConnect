@@ -1,4 +1,6 @@
 # Poem-Management-System
+
+This repository contains the source code for PoetryConnect, a mobile application created by myself and my teammates. 
 |  |Name|ID|
 |:-|:---|:-|
 |1 |Aderajew Yeshiwendm|UGR/3662/14|
