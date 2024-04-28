@@ -90,6 +90,7 @@ class _MyHomePageState extends State<MyHomePage> {
   //   }
   // }
 
+  
   Future _getImage() async {
     final pickedImage =
         await ImagePicker().pickImage(source: ImageSource.gallery);
