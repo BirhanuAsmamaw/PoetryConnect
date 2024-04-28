@@ -30,7 +30,6 @@ class _WelcomeState extends State<Welcome> with SingleTickerProviderStateMixin {
       child: _welcomeColumn(),
     );
   }
-
   Column _welcomeColumn() {
     return Column(
       mainAxisAlignment: MainAxisAlignment.spaceAround,
