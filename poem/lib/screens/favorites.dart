@@ -1,10 +1,8 @@
 import 'package:flutter/material.dart';
-
 import 'poem_page.dart';
 
 class MyFavoritesScreen extends StatelessWidget {
   final List<Poem> favoritePoems;
-
   const MyFavoritesScreen({super.key, required this.favoritePoems});
 
   @override
